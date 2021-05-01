@@ -1,6 +1,7 @@
 # HTML5
 
-<img src="https://github.com/Murathansolmaz1/HTML5/blob/main/HTML5/html5.jpg" align="left"></img><br>
+<img src="https://github.com/Murathansolmaz1/HTML5/blob/main/HTML5/html5.jpg"></img>
+<br>
 
 
 <ul>
